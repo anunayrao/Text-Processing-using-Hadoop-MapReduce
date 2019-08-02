@@ -1,0 +1,103 @@
+Before making a decision that drastically alters the path of their franchise, a bit of introspection  may show the Wizards that this currently underwhelming group may be leaving a lot on the table. But in order to unlock it, the team would need to commit to a rather unconventional solution.
+Any examination of the Wizards pretty much starts and ends with their lineup data. It’s hard to overlook that when head coach Scott Brooks rolls with bench heavy units, opponents tend to -- what’s a way to put this nicely -- annihilate them. When current bench mob of Tomas Satoransky, Jodie Meeks, Kelly Oubre, Mike Scott and Ian Mahinmi share the floor, teams outscore Washington by 9.2 points per 48 minutes, per NBA.com. When Tim Frazier was in Satoransky spot, that group was thrashed by 10.7 points per 48.
+Combined, those two 5-man pairings make up about 1/10 of the Wizards minute totals from this season. Brooks hasn’t exactly been given the title of a lineup wizard, but this is not good even by his standards. Other little things, like the general acquiescence to veteran Markieff Morris, may contribute to the Wizards mediocre performance, but the general commitment to rotations is the most debilitating -- and we haven’t even gotten to team’s biggest sin in that area.
+Washington’s current starting unit posts solid numbers (+6.5 per 48), but the team actually has one of the NBA’s best five-man groups at its disposal. When Kelly Oubre takes Morris’ place among the starters, the team outscores opponents by a whopping 19.6 points per 48 minutes. That mark is the fourth highest in the league (min 150 minutes). Yet despite its success, Brooks has only gone to it for an average of 9.2 minutes per game in the 21 contests the team has been healthy enough to play it.
+If you look at that and call for the firing of Brooks, you may have a case. To utilize that lineup so infrequently is a gross misuse of personnel by a head coach. It’s their version of Golden State’s “Death Lineup” and Washington’s entire game plan should be centered around getting to it as often as possible.
+In order to do so, it might be time for the Brooks and the Wizards to break the bounds of traditional coaching and commit to a rather radical idea - lineup scripting.
+Way Outside the Box 
+Because of the dynamic nature of basketball, it’s hard to conceive a coach using lineups in the same immutable way MLB managers use batting orders. Before and after games, coaches and fans alike discuss certain matchups that went for or against their teams while waxing poetic about finding combinations that “worked” in the flow of a game. But when you really dive into the subject, you’ll start to question whether things work that way because it’s truly the best approach.
+Real quickly, if you think of all the things that an NBA coach absorbs over the course of a 48 minute basketball game it’s kind of mind-boggling. Just a basic list would include play calls (both for his team and an opponent), fouls, referee interactions, time/score situations, individual matchups and monitoring fatigue. Then remember that these things are tracked during intense, high stress/high pressure situations -- the kind of spot that exposes human beings to all kinds of subconscious bias and event-recall errors. 
+It’s there you start to see why lineup data pages are filled -- whether the team is good or bad -- with suboptimal pairings (in a relative sense to the team’s success) that soak up way more minutes than can possibly be explained by injuries or absence. One possible hypothesis for this is rather simple: we’ve never questioned that the way basketball coaches utilize their rotations is the best way of doing it. The only thing we know for certain, is that substitution by intuition is only way it’s been done. 
+So what would it look like if the Wizards just cast traditional thinking aside and committed to inflexible, pre-planned rotation?
+Theory Into Practice 
+When it comes to Washington, we already know some basic problems with their rotation. Their bench can’t be played together and their best lineup isn’t utilized nearly enough. Between examining ideal combinations and putting them in context of minute management -- John Wall and Bradley Beal can’t play 48 minutes every night after all -- you might come up with a little something like this:
+Time &
+Position
+1st Q Start
+1st Q
+6:00
+1st Q
+4:00
+1st Q
+2:00
+2nd Q
+Start
+2nd Q
+10:00
+2nd Q
+8:00
+2nd Q
+6:00
+5
+MG
+MG
+MM
+IM
+IM
+IM
+MG
+MG
+4
+OP
+OP
+OP
+MM
+MM
+MM
+MM
+OP
+3
+KO
+KO
+KO
+OP
+MS
+MS
+MS
+KO
+2
+BB
+BB
+BB
+BB
+TS
+KO
+KO
+BB
+`1
+JW
+TS
+TS
+TS
+JW
+JW
+JW
+JW
+ 
+Player
+Minute Total
+John Wall (JW)
+36
+Brad Beal (BB)
+36
+Kelly Oubre (KO)
+36
+Otto Porter (OP)
+36
+Marcin Gortat (MG)
+32
+Markieff Morris (MM)
+20
+Tomas Satoransky (TS)
+16
+Ian Mahinmi (IM)
+12
+Mike Scott (MS)
+12
+In this version of an ideal Wizards' rotation, their own “Death Lineup” is together on the court for (roughly) 24 minutes every -- that’s nearly three times as often as it’s currently utilized when all those players are healthy and able to contribute. On top of that, the team’s two bell cows -- Beal and Wall -- are split in a way that eliminates a need to play the entire bench mob all at once. Morris sees a drop in minutes, but the fact he posts the team’s seventh best raw plus/minus now jives a lot better that he’d average the sixth most minutes (instead of starting and playing over half the game).
+In addition to that, struggling veteran Jodie Meeks gets excised from the rotation in lieu of more minutes for Oubre and Porter -- superior players by any stat or metric. Meeks currently averages 15.4 minutes per game while posting a -4.4 rating per 48 minutes. Redistributing those minutes alone should see an immediate bump in the team’s overall performance.
+And while some of these lineups may look a little awkward, certain deficiencies can be offset by the ability to make more precision play calls. Take the Mahinmi-Morris-Scott-Satoransky-Wall quintet at the start of the 2nd quarter. Playing Scott as a nominal 3-man and Satoransky next to Wall seems like a recipe for disaster. But during that stretch, Brooks could pare down his play calls to just simple sets that maximize his personnel (Like middle pick-and-roll sets where Satoransky and Scott just act as floor spacers in the corner, where they’re very accurate this season).
+In general, the big upside of such an unorthodox approach is that it would commit the Wizards to a lineup that should produce great numbers against all different types of lineup combinations that will come against. An extended run out will likely reduce that lineups overall effectiveness, but it’s hard to imagine a scenario in which that versatile, quintet filled with floor spacers and a crafty big man would see a drastic drop in their performance. And that’s where this gets really interesting. 
+If the Wizards simply commit to a strange process of playing better lineups, what does it do to their team (even if their stars have an icy relationship)? If this approach makes them even marginally more competitive, that could be a huge boost in an Eastern Conference that’s never been more up for grabs in this decade. That seems to be a better move than shipping out an All-Star guard and crossing your fingers on the return.
+Going so far against the grain of traditional lineup management is obviously an outlandish idea. That’s why no one has done anything like it yet. Because given our current perception of what “coaching” entails and the thrill we get from the Coach-as-Kasparov narratives that emerge game after game, it’s understandable why someone like Brooks wouldn’t stand up to the dynamic, interpersonal basketball world filled with long-established traditions armed solely with a spreadsheet.
+But it’s still fun to imagine a world where a team like Washington gives it a whirl. There’s a chance that without making a single transaction, it could transform the Wizards -- and maybe the entire basketball world right along with them.  

@@ -1,0 +1,169 @@
+BAT AVG
+BAT AVG
+BABIP
+RBI
+OBP
+fWAR
+SECONDARY
+AVERAGE
+OPS
+fWAR
+RAR
+RBI
+OBS
+WAR
+WAR
+Rbaser
+bWAR
+RAR
+BABIP
+Rbaser
+OPS
+bWAR
+BAT AVG
+SLG%
+BAT AVG
+BAT AVG
+BABIP
+RBI
+OBP
+fWAR
+SECONDARY
+AVERAGE
+OPS
+fWAR
+RAR
+RBI
+OBS
+WAR
+WAR
+Rbaser
+bWAR
+RAR
+BABIP
+Rbaser
+OPS
+bWAR
+BAT AVG
+SLG%
+BAT AVG
+BAT AVG
+BABIP
+RBI
+OBP
+fWAR
+SECONDARY
+AVERAGE
+OPS
+fWAR
+RAR
+WAR
+WAR
+Rbaser
+bWAR
+RAR
+BABIP
+Rbaser
+OPS
+BAT AVG
+SLG%
+BAT AVG
+BAT AVG
+BABIP
+RBI
+OBP
+fWAR
+SECONDARY
+AVERAGE
+OPS
+fWAR
+RAR
+WAR
+WAR
+Rbaser
+bWAR
+RAR
+BABIP
+Rbaser
+OPS
+BAT AVG
+SLG%
+Photograph by Jae C. Hong/Associated Press
+By Victor Mather
+In this era of new and complex baseball statistics, a venerable one still pops up frequently in conversations among even the geekiest of stat-heads: batting average.
+It’s one of the easiest to understand: .300 is good.; .200 is the Mendoza line — you don’t want to drop below that. If you want to praise a player, you’re likely to get more mileage with most fans by saying, “He’s hitting .280” than by citing his WAR or BABIP.
+But as even some statistical Neanderthals know, batting average is a seriously flawed measure of offensive performance. It is great for evaluating a player’s ability to hit singles, but batters get no credit for their power, speed or batting eye.
+What if there were a statistic as easy to understand as batting average that accounted for the things that batting average does not?
+Well, there is: It’s called secondary average, and it was invented by the influential statistician Bill James in the 1970s. Unlike many of James’s innovations, it has not caught on heavily with fans — you can’t find it in most stats websites or on the back of baseball cards.
+But secondary average is a useful tool to quickly evaluate a player’s offense, identifying players who are underrated or overrated by batting average.
+Secondary average looks and works a lot like batting average does. But rather than focusing on hit totals, it adds up the batter’s other offensive skills — extra bases, walks and stolen bases — and then divides by at-bats. (Some formulas for secondary average also include hit-by-pitch, and others reduce the total for being caught stealing. We’re using the simplest formula here.)
+Let’s use Dee Gordon of the Seattle Mariners as an example. He had a .268 batting average last season, 20 points higher than the league average (.248). But his secondary average was a mere .151 because he had very few extra-base hits and even fewer walks.
+Here’s how it works:
+Dee Gordon
+Seattle Mariners
+HITS
+AT-BATS
+149 ÷ 556 = .268
+Batting Average
+AT-BATS
+84 ÷ 556 = .151
+Secondary Average
+2B
+17
+17
+3B
+  8 (x 2)
+16
+HR
+  4 (x 3)
+12
+BB
+  9
+  9
+SB
+30
++ 30
+84
+JOHN FROSCHAUER
+ASSOCIATED PRESS
+Dee Gordon
+Seattle Mariners
+HITS
+AT-BATS
+149 ÷ 556 = .268
+Batting Average
+AT-BATS
+84 ÷ 556 = .151
+Secondary Average
+2B
+17
+17
+3B
+  8 (x 2)
+16
+HR
+  4 (x 3)
+12
+BB
+  9
+  9
+SB
+30
++ 30
+84
+JOHN FROSCHAUER
+ASSOCIATED PRESS
+You don’t really have to learn a new scale to understand secondary average. It looks and works a lot like batting average: .300 is good, and .200 is not. Major leaguers collectively had a .248 batting average last season, and their overall secondary average was .271.
+One difference is that the spectrum is much wider. While almost every player falls into the .200s or .300s in batting average, there are plenty of regular major leaguers with secondary averages in the .100s, and others over .400 or even .500.
+Here are the players who had the largest increase from their traditional batting average to their secondary average last season:
+Of the players who qualified for the batting title last season, the leader in secondary average was Mike Trout of the Los Angeles Angels, with an eye-opening .626. Trout had a solid .312 batting average, but that hardly summed up his offense. He had a healthy number of extra-base hits, including 39 home runs; led the league in walks with 122; and stole 24 bases. Jose Ramirez of Cleveland (.524), and Mookie Betts of Boston (.508) were just behind him at the top of the secondary average list.
+Some historical context makes Trout’s season look even more impressive: Babe Ruth’s career secondary average was .608; Barry Bonds’s was .621.
+At the other end, it reveals how some players, like Gordon, bring little beyond an ability to hit singles:
+The Chicago White Sox’ Jon Jay, who spent last season with Kansas City and Arizona, had only three home runs, drew only 33 walks and stole four bases. These rather anemic extra contributions led to a sad .150 secondary average — compared with a .268 batting average — one point behind Gordon. Miguel Rojas of Miami was at .156.
+Unsurprisingly, Bryce Harper’s .249 batting average from last season sells his contributions short. He hit 34 home runs and led the majors with 130 walks, for a secondary average of .507. Mention that the next time someone dismisses him as “just a .250 hitter.”
+A less heralded example is Joey Gallo of Texas. His .206 batting average might make it seem as if he is ready for a demotion to Class AAA Nashville. But his 40 home runs, and his doubles (24) and walks (74) gave him a robust secondary average of .446, keeping his slot in the Rangers’ outfield secure.
+While the Phillies landed one high-secondary-average player in Harper this off-season, the rest of their winter haul didn’t necessarily follow that trend. Philadelphia also traded with the Mariners for Jean Segura, whose .304 batting average seemed to plant him among the game’s best shortstops. But secondary average reveals it to be something of an empty .304: Although Segura hit 29 doubles and 10 home runs, his walk total was a shaky 32. That adds up to a secondary average of .200.
+Mario Mendoza (career batting average .215, career secondary average .095) might approve.
+
+
+
